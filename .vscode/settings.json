@@ -1,3 +1,64 @@
 {
-    "peacock.color": "green"
+  ""editor.formatOnSave"": true,
+  ""editor.tabSize"": 2,
+  ""editor.insertSpaces"": true,
+  ""files.autoSave"": ""afterDelay"",
+  ""files.autoSaveDelay"": 1000,
+  ""javascript.validate.enable"": false,
+  ""eslint.enable"": true,
+  ""eslint.validate"": [
+    ""javascript"",
+    ""javascriptreact"",
+    ""html""
+  ],
+  ""prettier.singleQuote"": true,
+  ""prettier.trailingComma"": ""es5"",
+  ""prettier.tabWidth"": 2,
+  ""prettier.useTabs"": false,
+  ""prettier.printWidth"": 80,
+  ""prettier.semi"": true,
+  ""liveServer.settings.port"": 5500,
+  ""liveServer.settings.root"": ""/"",
+  ""bracketPairColorizer.highlightActiveScope"": true,
+  ""css.validate"": true,
+  ""html.validate.scripts"": true,
+  ""html.validate.styles"": true,
+  ""path-intellisense.autoSlashAfterDirectory"": true,
+  ""gitlens.advanced.messages"": {
+    ""suppressShowKeyBindingsNotice"": true
+  },
+  ""stylelint.enable"": true,
+  ""stylelint.validate"": [
+    ""css"",
+    ""scss"",
+    ""less""
+  ],
+  ""auto-rename-tag.activationOnLanguage"": [
+    ""html"",
+    ""xml""
+  ],
+  ""javascript.booster.importSortOnSave"": true,
+  ""svgViewer.autoOpen"": true,
+  ""workbench.colorCustomizations"": {
+    ""activityBar.background"": ""#333333"",
+    ""titleBar.activeBackground"": ""#444444"",
+    ""titleBar.activeForeground"": ""#FFFFFF""
+  },
+  ""rest-client.environmentVariables"": {
+    ""$shared"": {
+      ""baseUrl"": ""http://localhost:3000""
+    }
+  },
+  ""todo-tree.general.tags"": [
+    ""TODO"",
+    ""FIXME"",
+    ""BUG""
+  ],
+  ""codeSpellChecker.language"": [
+    ""en"",
+    ""javascript"",
+    ""html"",
+    ""css""
+  ],
+  ""markdown-preview-enhanced.previewTheme"": ""github-light.css""
 }
